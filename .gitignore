@@ -1,0 +1,6 @@
+# ignore object files created
+*.o 
+
+config.h
+dmenu
+stest
